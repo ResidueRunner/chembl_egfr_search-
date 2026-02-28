@@ -1,0 +1,142 @@
+[
+  {
+    "molecule_chembl_id": "CHEMBL68920",
+    "activity_type": "IC50",
+    "activity_value": "41.0",
+    "activity_units": "nM",
+    "assay_description": "Inhibitory activity towards tyrosine phosphorylation for the epidermal growth factor-receptor kinase"
+  },
+  {
+    "molecule_chembl_id": "CHEMBL68920",
+    "activity_type": "IC50",
+    "activity_value": "300.0",
+    "activity_units": "nM",
+    "assay_description": "Inhibition of autophosphorylation of human epidermal growth factor-receptor (EGF-R) expressed in A431 cells"
+  },
+  {
+    "molecule_chembl_id": "CHEMBL68920",
+    "activity_type": "IC50",
+    "activity_value": "7820.0",
+    "activity_units": "nM",
+    "assay_description": "Inhibition of ligand-induced proliferation in human EGF-R Kinase expressing 3T3 cells"
+  },
+  {
+    "molecule_chembl_id": "CHEMBL69960",
+    "activity_type": "IC50",
+    "activity_value": "170.0",
+    "activity_units": "nM",
+    "assay_description": "Inhibitory activity towards tyrosine phosphorylation for the epidermal growth factor-receptor kinase"
+  },
+  {
+    "molecule_chembl_id": "CHEMBL69960",
+    "activity_type": "IC50",
+    "activity_value": "40.0",
+    "activity_units": "nM",
+    "assay_description": "Inhibition of autophosphorylation of human epidermal growth factor-receptor (EGF-R) expressed in A431 cells"
+  },
+  {
+    "molecule_chembl_id": "CHEMBL69960",
+    "activity_type": "IC50",
+    "activity_value": "440.0",
+    "activity_units": "nM",
+    "assay_description": "Inhibition of ligand-induced proliferation in human EGF-R Kinase expressing 3T3 cells"
+  },
+  {
+    "molecule_chembl_id": "CHEMBL137635",
+    "activity_type": "IC50",
+    "activity_value": "9300.0",
+    "activity_units": "nM",
+    "assay_description": "In vitro inhibition of Epidermal growth factor receptor tyrosine kinase isolated from A431 (human carcinoma)."
+  },
+  {
+    "molecule_chembl_id": "CHEMBL306988",
+    "activity_type": "IC50",
+    "activity_value": "500000.0",
+    "activity_units": "nM",
+    "assay_description": "Inhibitory concentration of EGF dependent autophosphorylation of epidermal growth factor receptor kinase"
+  },
+  {
+    "molecule_chembl_id": "CHEMBL66879",
+    "activity_type": "IC50",
+    "activity_value": "3000000.0",
+    "activity_units": "nM",
+    "assay_description": "Inhibitory concentration of EGF dependent autophosphorylation of epidermal growth factor receptor kinase"
+  },
+  {
+    "molecule_chembl_id": "CHEMBL66879",
+    "activity_type": "Ki",
+    "activity_value": "1000000.0",
+    "activity_units": "nM",
+    "assay_description": "Inhibitory concentration of EGF dependent autophosphorylation of epidermal growth factor receptor kinase"
+  },
+  {
+    "molecule_chembl_id": "CHEMBL77085",
+    "activity_type": "IC50",
+    "activity_value": "96000.0",
+    "activity_units": "nM",
+    "assay_description": "Inhibitory concentration of EGF dependent autophosphorylation of epidermal growth factor receptor kinase"
+  },
+  {
+    "molecule_chembl_id": "CHEMBL77085",
+    "activity_type": "Ki",
+    "activity_value": "24000.0",
+    "activity_units": "nM",
+    "assay_description": "Inhibitory concentration of EGF dependent autophosphorylation of epidermal growth factor receptor kinase"
+  },
+  {
+    "molecule_chembl_id": "CHEMBL443268",
+    "activity_type": "IC50",
+    "activity_value": "5310.0",
+    "activity_units": "nM",
+    "assay_description": "Inhibitory activity towards tyrosine phosphorylation for the epidermal growth factor-receptor kinase"
+  },
+  {
+    "molecule_chembl_id": "CHEMBL76979",
+    "activity_type": "IC50",
+    "activity_value": "264000.0",
+    "activity_units": "nM",
+    "assay_description": "Inhibitory concentration of EGF dependent autophosphorylation of epidermal growth factor receptor kinase"
+  },
+  {
+    "molecule_chembl_id": "CHEMBL76979",
+    "activity_type": "Ki",
+    "activity_value": "700000.0",
+    "activity_units": "nM",
+    "assay_description": "Inhibitory concentration of EGF dependent autophosphorylation of epidermal growth factor receptor kinase"
+  },
+  {
+    "molecule_chembl_id": "CHEMBL76589",
+    "activity_type": "IC50",
+    "activity_value": "125.0",
+    "activity_units": "nM",
+    "assay_description": "Inhibitory concentration of EGF dependent autophosphorylation of epidermal growth factor receptor kinase"
+  },
+  {
+    "molecule_chembl_id": "CHEMBL77724",
+    "activity_type": "IC50",
+    "activity_value": "1250000.0",
+    "activity_units": "nM",
+    "assay_description": "Inhibitory concentration of EGF dependent autophosphorylation of epidermal growth factor receptor kinase"
+  },
+  {
+    "molecule_chembl_id": "CHEMBL77724",
+    "activity_type": "Ki",
+    "activity_value": "400000.0",
+    "activity_units": "nM",
+    "assay_description": "Inhibitory concentration of EGF dependent autophosphorylation of epidermal growth factor receptor kinase"
+  },
+  {
+    "molecule_chembl_id": "CHEMBL420385",
+    "activity_type": "IC50",
+    "activity_value": "625000.0",
+    "activity_units": "nM",
+    "assay_description": "Inhibitory concentration of EGF dependent autophosphorylation of epidermal growth factor receptor kinase"
+  },
+  {
+    "molecule_chembl_id": "CHEMBL420385",
+    "activity_type": "Ki",
+    "activity_value": "250000.0",
+    "activity_units": "nM",
+    "assay_description": "Inhibitory concentration of EGF dependent autophosphorylation of epidermal growth factor receptor kinase"
+  }
+]
